@@ -1,0 +1,182 @@
+[
+    {
+        "id":1,
+        "name":"Dosa",
+        "amt":"65",
+        "shop":"A2B",
+        "ftype":"Veg",
+        "pic":"https://img.freepik.com/free-photo/crispy-bakery-with-various-sauces_140725-2902.jpg?t=st=1721126329~exp=1721129929~hmac=baec8b0cdb34a27cacdcbc2a0c65d244312bc97ec4db17ab3574733bc56b201a&w=740",
+        "latest":"No"
+    },
+    {
+        "id":2,
+        "name":"Idly",
+        "amt":"20",
+        "shop":"Saravana Bavan",
+        "ftype":"Veg",
+        "pic":"https://img.freepik.com/premium-photo/podi-idli-is-quick-easy-snack-made-with-leftover-idly-served-with-sambar-coconut-chutney-selective-focus_466689-39667.jpg?w=360",
+        "latest":"No"
+    },
+    {
+        "id":3,
+        "name":"Chicken 65",
+        "amt":"200",
+        "shop":"RR Biriyani",
+        "ftype":"Non Veg",
+        "pic":"https://img.freepik.com/free-photo/top-view-spicy-chicken-with-lettuce-lemon-pan-table_181624-61795.jpg?t=st=1721126156~exp=1721129756~hmac=7f7276da9b2525f550d76669ca9d3fd6924c8f3fd0c42f43120409a14ae7eb9e&w=1060",
+        "latest":"No"
+    },
+    {
+        "id":4,
+        "name":"Japan Chicken",
+        "amt":"300",
+        "shop":"Petromax Restaurant",
+        "ftype":"Non Veg",
+        "pic":"https://img.freepik.com/free-photo/gyoza-black-cup-with-sushi_1150-22650.jpg?t=st=1721126098~exp=1721129698~hmac=ba8cca42c6ab8776a7f11062c1f022f6a270f8c57fea48809c7b5e931f75bf62&w=740",
+        "latest":"Yes"
+    },
+    {
+        "id":5,
+        "name":"Classic Pizza",
+        "amt":"359",
+        "shop":"Domino's",
+        "ftype":"Non Veg",
+        "pic":"https://img.freepik.com/free-photo/side-view-chicken-pizza-tray-with-salad-table_141793-12982.jpg?t=st=1721125986~exp=1721129586~hmac=0321f94b64bf27e1cf00982d5c00197dc9681387e99b89f1a2b68dffb3306f70&w=1060",
+        "latest":"No"
+    },
+    {
+        "id":6,
+        "name":"Chocolate Donut",
+        "amt":200,
+        "shop":"Modern Cafe",
+        "ftype":"Dessert",
+        "pic":"https://img.freepik.com/free-photo/fresh-tasty-donuts-with-chocolate-glaze_144627-882.jpg?t=st=1721125939~exp=1721129539~hmac=5a6ea7d0b157fb2d3dcef3aa8d89a52fd599fcfae87ef13cada638b570c644c1&w=740",
+        "latest":"Yes"
+    },
+    {
+        "id":7,
+        "name":"Ice Cream",
+        "amt":"50",
+        "shop":"Polar Bear",
+        "ftype":"Dessert",
+        "pic":"https://img.freepik.com/free-photo/coold-sweet-ice-cream-with-chocolate_144627-7297.jpg?t=st=1721125891~exp=1721129491~hmac=0d130651e81d268177046e00b7945ecb123af279c3c52c26babf121eaeb15d94&w=1060",
+        "latest":"No"
+    },
+    {
+        "id":8,
+        "name":"Mushroom Fry",
+        "amt":"180",
+        "shop":"Arya Bavan",
+        "ftype":"Veg",
+        "pic":"https://img.freepik.com/free-photo/sauteed-chicken-with-mushrooms_2829-12877.jpg?t=st=1721125851~exp=1721129451~hmac=be6122fe1260be10cfd7f3ea409472bc85b5756a2a166cfcc865066f9f440aaa&w=1060",
+        "latest":"No"
+    },
+    {
+        "id":9,
+        "name":"Paneer Fry",
+        "amt":"180",
+        "shop":"Arya Bavan",
+        "ftype":"Veg",
+        "pic":"https://img.freepik.com/free-photo/front-view-cooked-italian-pasta-with-tomato-sauce-cucumber-inside-plate-dark-surface_140725-25977.jpg?t=st=1721125799~exp=1721129399~hmac=d7eb9b697bb0170158005fd2f07a38beaccbf9cd2b9403e12548dcdb21607e7e&w=1060",
+        "latest":"No"
+    },
+    {
+        "id":10,
+        "name":"Chicken Shawarma",
+        "amt":"280",
+        "shop":"Shawarma King",
+        "ftype":"Non Veg",
+        "pic":"https://img.freepik.com/free-photo/side-view-shawarma-with-fried-potatoes-board-cookware_176474-3215.jpg?t=st=1721125731~exp=1721129331~hmac=3b119db0eaf71e7b1539d153ca35e59fbd885966f6d0c05c685859111859ef15&w=740",
+        "latest":"No"
+    },
+    {
+        "id":11,
+        "name":"Butter Naan",
+        "amt":"45",
+        "shop":"K M R",
+        "ftype":"Bread",
+        "pic":"https://img.freepik.com/free-photo/delicious-assortment-nutritious-roti_23-2149033968.jpg?t=st=1721125683~exp=1721129283~hmac=ed83254be8ffeb0b2165a7b876335990c7d65bcb121708827762da3426dbe9d3&w=1060",
+        "latest":"No"
+    },
+    {
+        "id":12,
+        "name":"Kadai Chicken Masala",
+        "amt":"210",
+        "shop":"K M R",
+        "ftype":"Gravy",
+        "pic":"https://img.freepik.com/free-photo/front-view-tasty-cooked-meal-consists-sliced-vegetables-greens_140725-83500.jpg?t=st=1721125637~exp=1721129237~hmac=24cf0c09b38a16afcd868e8e794e8fd8eda8ad4189d032b16d831601703654bb&w=1060",
+        "latest":"Yes"
+    },
+    {
+        "id":13,
+        "name":"Paneer Butter Masala",
+        "amt":"200",
+        "shop":"K M R",
+        "ftype":"Gravy",
+        "pic":"https://img.freepik.com/free-photo/vertical-shot-traditional-indian-paneer-butter-masala-cheese-cottage-curry-black-surface_181624-32001.jpg?t=st=1721125565~exp=1721129165~hmac=4caa936ee5a24ede8483bb7299645f628724b53d9ec7ab8c0bd5b9a9c18fbf1f&w=740",
+        "latest":"No"
+    },
+    {
+        "id":14,
+        "name":"Kerala Chicken",
+        "amt":"180",
+        "shop":"Malabar Restaurant",
+        "ftype":"Non Veg",
+        "pic":"https://img.freepik.com/free-photo/herbs-fried-chicken-with-chili-tomato-cucumber-carrot-fresh-pepper_1150-25900.jpg?t=st=1721125498~exp=1721129098~hmac=efe41b277ce1bb5184c1dbaafb8769f017e32cca2ba1df6da436c3ea98319131&w=1060",
+        "latest":"Yes"
+    },
+    {
+        "id":15,
+        "name":"Gobi Pepper Fry",
+        "amt":"200",
+        "shop":"Thalapakatti",
+        "ftype":"Veg",
+        "pic":"https://img.freepik.com/free-photo/side-view-stewed-meatballs-with-tomato-sauce-bell-pepper-spring-onion-mint-plate_141793-5117.jpg?t=st=1721125431~exp=1721129031~hmac=d87427f0241cde786bb60c24ac6f6bf55c7122dc04beba3cac7ec315912f8a83&w=1060",
+        "latest":"No"
+    },
+    {
+        "id":16,
+        "name":"Choco Truffles",
+        "amt":"120",
+        "shop":"Deli Fresh",
+        "ftype":"Dessert",
+        "pic":"https://img.freepik.com/free-photo/close-up-view-delicious-chocolate-cake_23-2148801129.jpg?t=st=1721125383~exp=1721128983~hmac=3bb74d223396b6e07b382c6933707a4d5dfe1a72665bd855ffa0e565977cf11a&w=1060",
+        "latest":"Yes"
+    },
+    {
+        "id":17,
+        "name":"Mojito",
+        "amt":"80",
+        "shop":"Modern Cafe",
+        "ftype":"Cold Beverages",
+        "pic":"https://img.freepik.com/free-photo/blue-iced-cocktail-with-lemon-slice_140725-323.jpg?t=st=1721124579~exp=1721128179~hmac=1989ddad65ed57e6db9c8d81f405e70ff0b66c77dd2797d99a9fd5900dce7a7e&w=360",
+        "latest":"No"
+    },
+    {
+        "id":18,
+        "name":"Vennila Milkshake",
+        "amt":"130",
+        "shop":"Modern Cafe",
+        "ftype":"Cold Beverages",
+        "pic":"https://img.freepik.com/free-photo/milkshake-with-chocolate-table_140725-6735.jpg?t=st=1721125269~exp=1721128869~hmac=40bdfb971d1e8490703843f8daa479e69fb68f374ae901b3bbed390ac318e49f&w=740",
+        "latest":"No"
+    },
+    {
+        "id":19,
+        "name":"Chicken Biriyani",
+        "amt":"220",
+        "shop":"Thalapakatti",
+        "ftype":"Non Veg",
+        "pic":"https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?t=st=1721125214~exp=1721128814~hmac=968ef36a0a277f1f0574bc310f8e0bd2dd733f8dafb9e528589bfbbf4e9a8736&w=1060",
+        "latest":"No"
+    },
+    {
+        "id":20,
+        "name":"Egg Noodles",
+        "amt":"170",
+        "shop":"Petromax Restaurant",
+        "ftype":"Non Veg",
+        "pic":"https://img.freepik.com/free-photo/overhead-view-chicken-pad-thai-noodles-bowl_23-2148093259.jpg?t=st=1721125138~exp=1721128738~hmac=f215907df140ffe011c225ddb841420cd7e4d4ebd12fce2393b862730c31b11f&w=740",
+        "latest":"No"
+    }
+]
