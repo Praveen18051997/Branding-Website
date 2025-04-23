@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Branding-Website/static/css/main.29cb4415.css",
+    "main.js": "/Branding-Website/static/js/main.62dd631c.js",
+    "static/media/office 2.jpg": "/Branding-Website/static/media/office 2.16d06f0c6fc6e1643c6e.jpg",
+    "static/media/office 1.png": "/Branding-Website/static/media/office 1.d0d29e9562abb45ec413.png",
+    "static/media/office 3.jpg": "/Branding-Website/static/media/office 3.0262413953a95d227e49.jpg",
+    "static/media/email-marketing.png": "/Branding-Website/static/media/email-marketing.ab6266b39b945f51b719.png",
+    "static/media/ppc.png": "/Branding-Website/static/media/ppc.84e9f72a7d52a9b42b02.png",
+    "static/media/content-marketing.png": "/Branding-Website/static/media/content-marketing.b94d1fa371b403449f1c.png",
+    "static/media/back-ground.jpg": "/Branding-Website/static/media/back-ground.da4bef14338082163c38.jpg",
+    "static/media/social-media-management.png": "/Branding-Website/static/media/social-media-management.8bc27af738f85addccc3.png",
+    "index.html": "/Branding-Website/index.html",
+    "main.29cb4415.css.map": "/Branding-Website/static/css/main.29cb4415.css.map",
+    "main.62dd631c.js.map": "/Branding-Website/static/js/main.62dd631c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cb4415.css",
+    "static/js/main.62dd631c.js"
+  ]
+}
